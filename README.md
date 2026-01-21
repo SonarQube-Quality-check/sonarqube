@@ -1,2 +1,2 @@
 # sonarqube
-This is repo is to test using SonarQube 
+This repo is to test using SonarQube cloud 
